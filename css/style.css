@@ -1,0 +1,56 @@
+body{
+    background-color:black;
+    
+}
+    
+.navbar-brand img{
+    height: 70px;
+    width: 150px;
+}
+
+input{
+   width: 400px;
+   height: 40px;
+   border-radius: 10px white;
+}
+.middle{
+    text-align: center;
+
+}
+.section{
+    min-height: 100vh;
+    
+}
+.background{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+ 
+}
+.divider{
+    background-color: rgb(57, 56, 56);
+    width: 100%;
+    height: 6px;
+}
+@media(max-width:400px){
+.section_1,.section2,.section_3,.section_4 {
+    text-align: center;
+}
+.section_4{
+    text-align: center;
+}
+.section_2{
+    text-align: center;
+}
+.start{
+   text-align: center; 
+}
+}
+.section_5{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
